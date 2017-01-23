@@ -1,0 +1,16 @@
+body {
+	background-color: #cccccc;
+}
+.foto img {
+	margin: 5% 0%;
+}
+.info h2, h3 {
+	font-family: 'Pacifico', cursive;
+	color: black;
+	opacity: 0.8;
+	margin: 5% 0%;
+}
+.redes i {
+	color: black;
+	opacity: 0.9;
+}
